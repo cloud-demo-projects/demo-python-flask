@@ -5,6 +5,8 @@ Sample python flask webframework project with starter UI template
 - flask run
 
 ## About Flask
-Flask is used for developing web applications using python, implemented on Werkzeug and Jinja2. Advantages of using Flask framework are: There is a built-in development server and a fast debugger provided. Lightweight.
+Flask is used for developing web applications using python, implemented on Werkzeug and Jinja2. 
+Advantages- built-in development server, fast debugger, lightweight.
 
 https://flask.palletsprojects.com/en/2.2.x/
+https://github.com/pallets/flask/blob/main/CONTRIBUTING.rst
