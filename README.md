@@ -1,5 +1,5 @@
-# demo-python-flask
-Sample python flask project with starter ui template
+# About
+Sample python flask webframework project with starter UI template
 
 ## Local
 - flask run
